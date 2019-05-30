@@ -10,7 +10,7 @@
         echo ("Hello");
         ?>
         <div>
-            <img src="myPic.jpg" alt="myPic" />
+            <img src="Screen Shot 2018-09-01 at 18.42.31_new.jpg" alt="KT1074" />
         </div>
     </body>
 </html>
